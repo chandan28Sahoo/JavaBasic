@@ -1,6 +1,6 @@
 package LinkedLIst;
 
-public class Find_nth_NodeFromLast {
+public class Find_nth_NodeFromLastAndRemove {
 	listNode head;
 	class listNode{
 		int data;
@@ -83,7 +83,7 @@ public class Find_nth_NodeFromLast {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Find_nth_NodeFromLast list = new Find_nth_NodeFromLast();
+		Find_nth_NodeFromLastAndRemove list = new Find_nth_NodeFromLastAndRemove();
 		list.addFirst(1);
 		list.addLast(2);
 		list.addLast(3);
