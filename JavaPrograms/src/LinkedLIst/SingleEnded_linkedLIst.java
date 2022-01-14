@@ -127,7 +127,7 @@ public class SingleEnded_linkedLIst {
 		list.addLast("list");
 		list.printList();
 //		list.deleteFirst();
-		list.addInMiddle(2, "that");
+//		list.addInMiddle(2, "that");
 		list.printList();
 	}
 
