@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternWithMultiThread",
+            "request": "launch",
+            "mainClass": "practiceJava/multiThreading.PatternWithMultiThread",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivideTwoIntegers",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceFromLeetCode.DivideTwoIntegers",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.BinarySearch",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch Element_occurKTimes",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.Element_occurKTimes",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch EquilibriumPoint",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.EquilibriumPoint",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDuplicates",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.FindDuplicates",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessingGame",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.GuessingGame",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch KadanesAlgorithm",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.KadanesAlgorithm",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastElementFirst",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.LastElementFirst",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeadersInArray",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.LeadersInArray",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.LongestCommonPrefix",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximizeToys",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.MaximizeToys",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximumofallsubarraysofsizek",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.Maximumofallsubarraysofsizek",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumNumberOfJumps",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.MinimumNumberOfJumps",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddNumber",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.OddNumber",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseGroupOfElement",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.ReverseGroupOfElement",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.Sort",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subarray_with_given_sum",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.Subarray_with_given_sum",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnCommonString",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.UnCommonString",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayPractice",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.arrayPractice",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch pettern2022",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.pettern2022",
+            "projectName": "practiceJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch petternPractice",
+            "request": "launch",
+            "mainClass": "practiceJava/practiceJava.petternPractice",
+            "projectName": "practiceJava"
+        }
+    ]
+}
